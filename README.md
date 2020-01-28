@@ -1,6 +1,6 @@
 "# TestAssignment" 
 1. Чтобы скачать проект запускаем команду:
-    https://github.com/ffellie/TestAssignment.git
+    git clone https://github.com/ffellie/TestAssignment.git
 2. Заходим в папку TestAssignment:
     cd TestAssignment
 3. Собираем проект командой:
