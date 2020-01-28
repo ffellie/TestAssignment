@@ -1,10 +1,10 @@
 "# TestAssignment" 
 1. Чтобы скачать проект запускаем команду:
-git clone https://github.com/ffellie/TestAssignment.git
+    git clone https://github.com/ffellie/TestAssignment.git
 2. Заходим в папку TestAssignment:
-cd TestAssignment
+    cd TestAssignment
 3. Собираем проект командой:
-mvn package
+    mvn package
 4. Запускаем jar:
     java -jar target/test-assignment-1.0-SNAPSHOT.jar
     ( java -jar target\test-assignment-1.0-SNAPSHOT.jar для Windows)
